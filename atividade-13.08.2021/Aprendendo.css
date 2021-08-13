@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#color {
+    border-width: 2%;
+    border-style: solid;
+    border-color: darkgreen;
+    background-color: red;
+    height: 110px;
+}
+
+.text {
+    border-style: solid;
+    border-width: 1%;
+    border-color: black;
+    height: 110px;
+}
+
+.input {
+    border-style: solid;
+    border-width: 0.5%;
+    border-color: black;
+    height: 110px;
+    background-color: blueviolet;
+
+}
+
+.line {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+.first {
+    color: black;
+    text-decoration: underline;
+}
+
+.second {
+    color: yellow;
+    text-decoration: underline;
+}
+
+#container {
+    border-width: 2%;
+    border-style: solid;
+    border-color:darkred;
+    background-color:peru;
+    height: 110px;
+}

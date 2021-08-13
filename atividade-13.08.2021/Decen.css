@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.ced {
+    background-color:peachpuff;
+}
+
+table {
+    text-align: center;
+    margin: 2%;
+}   
+
+.input {
+    background-color: darksalmon;
+    color:red;
+    font-weight: 900;
+}
+
+.container {
+    background-color: rosybrown;
+    color: sienna;
+    font-weight: 900;
+}
+
+.text {
+    background-color:wheat;
+    color: peru;
+    font-weight: 900;
+}
+
+#titulo {
+    margin: 1%;
+}
+
+h4 {
+    margin: 1%;
+}

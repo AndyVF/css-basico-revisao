@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    margin: 1%;
+    
+  }
+
+  strong {
+      color: red;
+      margin: 1%;
+  }
+  
+  .Destaque {
+      background-color: peachpuff;
+      margin: 1%;
+  }
+
+  #unico {
+      color: black;
+      margin: 1%;
+  }
+
+  p {
+      margin-right: 2%;
+  }
+  
